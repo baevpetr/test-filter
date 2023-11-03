@@ -1,0 +1,34 @@
+.idea
+
+# The most common binary files on the project to ignore them
+# MS Office
+*.doc
+*.docx
+*.odp
+*.ods
+*.odt
+*.pdf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Images
+*.bmp
+*.gif
+*.jpeg
+*.jpg
+*.png
+*.svg
+*.webp
+
+# Archives
+*.7z
+*.bz
+*.bz2
+*.gz
+*.rar
+*.tar
+*.zip
+
+*.bin
